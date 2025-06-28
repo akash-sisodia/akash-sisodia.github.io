@@ -1,72 +1,73 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Welcome to your Lovable project
 
-> https://akash-sisodia.github.io
+## Project info
 
-![GitHub stars](https://img.shields.io/github/stars/akash-sisodia/akash-sisodia.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/akash-sisodia/akash-sisodia.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/akash-sisodia/akash-sisodia.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://akash-sisodia.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/akashsinghsisodia/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+**URL**: https://lovable.dev/projects/7493e89c-048e-41c6-bc7a-505ebb57142d
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://akash-sisodia.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
+## How can I edit this code?
 
-:star: Star me on GitHub — it helps!
+There are several ways of editing your application.
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+**Use Lovable**
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `akash-sisodia.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+Simply visit the [Lovable Project](https://lovable.dev/projects/7493e89c-048e-41c6-bc7a-505ebb57142d) and start prompting.
 
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
+Changes made via Lovable will be committed automatically to this repo.
 
-To view a live example, **[click here](https://akash-sisodia.github.io/)**
+**Use your preferred IDE**
 
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-## Contributing 💡
-#### Step 1
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-- **Option 1**
-    - 🍴 Fork this repo!
+Follow these steps:
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-#### Step 2
+# Step 3: Install the necessary dependencies.
+npm i
 
-- **Build your code** 🔨🔨🔨
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
-#### Step 3
+**Edit a file directly in GitHub**
 
-- 🔃 Create a new pull request.
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/7493e89c-048e-41c6-bc7a-505ebb57142d) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
